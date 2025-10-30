@@ -7,3 +7,16 @@
 .headbackground{
     background-color: #000000;
 }
+.navbar-nav {
+  max-width: 768px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.navbar-nav .nav-link {
+  text-align: left; /* ensure left-aligned text */
+  flex-grow: 0;     /* prevent links from growing */
+  flex-shrink: 0;   /* prevent shrinking */
+}
