@@ -12,7 +12,7 @@
   Uploaded to Github and Repo Link in Comments
   Peer review about work experience with your partner and personal thoughts and Figma File
   All items in B Grade
-  Provide Review Videos of all items. 
+  Provide Review Videos of all items. 10-15 seconds per video at 720p to keep file size small.
   Responsiveness for desktop and tablet
 */ 
 
