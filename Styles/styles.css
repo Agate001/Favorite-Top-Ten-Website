@@ -18,3 +18,6 @@
   flex-grow: 0;     /* prevent links from growing */
   flex-shrink: 0;   /* prevent shrinking */
 }
+@media screen and (min-width: 768px) {
+    
+}
