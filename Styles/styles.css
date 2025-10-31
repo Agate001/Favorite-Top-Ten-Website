@@ -1,5 +1,5 @@
 p{
-    font-size: 40px;
+    font-size: 30px;
 }
 .text-teal{
     color: #00D5D5;
@@ -11,7 +11,7 @@ p{
     background-color: #000000;
 }
 .navbar-nav {
-  max-width: 768px;
+  max-width: 1024px;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -21,8 +21,10 @@ p{
   flex-grow: 0;     /* prevent links from growing */
   flex-shrink: 0;   /* prevent shrinking */
 }
-.topspacing{
-    margin-top: 10rem;
+.spacing{
+    margin-top: 5rem;
+    margin-left: 7rem;
+    margin-right: 2rem;
 }
 .cardsize{
     width: 18rem;
@@ -33,5 +35,9 @@ p{
 @media screen and (max-width: 769px) {
   p{
     font-size: 20px;
+  }
+  .spacing{
+    margin-top: 3rem;
+    margin-left: 3rem;
   }
 }
