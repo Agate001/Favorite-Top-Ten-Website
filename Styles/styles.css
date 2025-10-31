@@ -1,3 +1,6 @@
+p{
+    font-size: 40px;
+}
 .text-teal{
     color: #00D5D5;
 }
@@ -6,6 +9,10 @@
 }
 .headbackground{
     background-color: #000000;
+}
+.video-size{
+    width: 50%;
+    height: auto;
 }
 .navbar-nav {
   max-width: 768px;
@@ -18,6 +25,15 @@
   flex-grow: 0;     /* prevent links from growing */
   flex-shrink: 0;   /* prevent shrinking */
 }
-@media screen and (min-width: 768px) {
-    
+.topspacing{
+    margin-top: 10rem;
+}
+.cardsize{
+    width: 18rem;
+}
+.imgheight{
+    height: 20rem;
+}
+@media screen and (max-width: 761250px) {
+  
 }
