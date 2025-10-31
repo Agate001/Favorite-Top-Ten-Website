@@ -10,10 +10,6 @@ p{
 .headbackground{
     background-color: #000000;
 }
-.video-size{
-    width: 50%;
-    height: auto;
-}
 .navbar-nav {
   max-width: 768px;
   width: 100%;
@@ -34,6 +30,8 @@ p{
 .imgheight{
     height: 20rem;
 }
-@media screen and (max-width: 761250px) {
-  
+@media screen and (max-width: 769px) {
+  p{
+    font-size: 20px;
+  }
 }
