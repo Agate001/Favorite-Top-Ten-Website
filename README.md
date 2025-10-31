@@ -30,4 +30,9 @@
 
 */
 
-// Input Peer Review: 
+// Input Peer Review: Daniel Herrera:
+Your website looks very good with the styling. I would recommend adding a navbar in the bottom of your two pages with a function to scroll back to the top of the page, a link back to the home page and maybe a link to the other top 10. This will improve the UI so the user doesn't have to scroll all the way up the page.
+You may need to take another look at responsiveness for intended effect. play around with col-md and col-lg. It looks good already with col-md.
+
+PLZ fix:
+Issues: Demon Slayer has a full metal alchemist trailer. Video needs to reflect with Demon slayer.
