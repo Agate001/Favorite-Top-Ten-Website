@@ -42,6 +42,8 @@ p{
     margin-top: 3rem;
     margin-left: 3rem;
   }
+<<<<<<< HEAD
+=======
 }
 @media screen and (min-width: 1300px) {
   .spacing{
@@ -49,3 +51,4 @@ p{
     margin-left: 15rem;
   }
 }
+>>>>>>> 7103197bb7b2dc81938a239a252c2104f7d7a5b9
