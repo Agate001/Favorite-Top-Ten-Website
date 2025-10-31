@@ -28,6 +28,7 @@
     Finished the SportsCar page and AnimeSeries page and added alts to all pictures for accessability
     Updated ReadMe file to reflect all work done
     Fixed link to demon slayer trailer
+    Added fixed-top to navbar so it could follow user while they scroll
 
 */
 
