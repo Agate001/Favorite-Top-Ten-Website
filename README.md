@@ -1,6 +1,6 @@
 // Jesus Salgado and Carlos Lopez
 
-// Date Revised: 10/29/2025
+// Date Revised: 10/30/2025
 
 /*
   Must have a prototype made with Figma
@@ -12,13 +12,22 @@
   Uploaded to Github and Repo Link in Comments
   Peer review about work experience with your partner and personal thoughts and Figma File
   All items in B Grade
-  Provide Review Videos of all items. 10-15 seconds per video at 720p to keep file size small.
+  Provide Review Videos of all items.
   Responsiveness for desktop and tablet
 */ 
+ 
 
+/* 
+    10/30/2025
+    Created the Index and the majority of the Anime Page as well as the Styles.CSS so we can have consistent style throughout the project/site
+    Created the format used so that it would be easier to replicate for the Sports Car page to remain consistent
+    Started to copy over the format to the Sports Car page
+    10/31/2025
+    Created more styles so it can have responsiveness for desktop 1024px and tablet 768 px
+    Fixed sizing and resizing issues for text and videos
+    Finished the SportsCar page and AnimeSeries page and added alts to all pictures for accessability
+    Updated ReadMe file to reflect all work done
 
-// Brief Description of what you did. 
+*/
 
-// You can add multiple dates with description.
-
-// Person who Peer Reviewed your assignment
+// Input Peer Review: 
