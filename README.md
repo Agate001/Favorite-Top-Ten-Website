@@ -27,6 +27,7 @@
     Fixed sizing and resizing issues for text and videos
     Finished the SportsCar page and AnimeSeries page and added alts to all pictures for accessability
     Updated ReadMe file to reflect all work done
+    Fixed link to demon slayer trailer
 
 */
 
